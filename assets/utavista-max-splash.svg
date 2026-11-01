@@ -1,0 +1,174 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="UTAVISTA MAX">
+  <defs>
+    <linearGradient id="tr0" x1="600.3" y1="0" x2="843.3" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr1" x1="607" y1="0" x2="881.8" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr2" x1="597.9" y1="0" x2="828.9" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr3" x1="744.9" y1="0" x2="869.7" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr4" x1="777.7" y1="0" x2="932.4" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr5" x1="799.8" y1="0" x2="974.5" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr6" x1="815.1" y1="0" x2="1003.7" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr7" x1="825.2" y1="0" x2="1023.2" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr8" x1="831.1" y1="0" x2="1034.3" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr9" x1="833" y1="0" x2="1038" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr10" x1="831.1" y1="0" x2="1034.3" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr11" x1="825.2" y1="0" x2="1023.2" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr12" x1="815.1" y1="0" x2="1003.7" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr13" x1="799.8" y1="0" x2="974.5" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr14" x1="777.7" y1="0" x2="932.4" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="tr15" x1="744.9" y1="0" x2="869.7" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#141A30" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#141A30" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#141A30" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="edgeFade" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.12" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.88" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="inkGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+    <g id="art" fill="none" stroke="#141A30" stroke-linecap="round">
+      <path d="M404,408 H580" stroke-width="104"/>
+      <path d="M404,566 H660 A146,146 0 0 1 660,858 H404" stroke-width="104"/>
+      <line x1="600.3" y1="382.5" x2="843.3" y2="382.5" stroke-width="10" stroke="url(#tr0)"/>
+      <line x1="607" y1="410" x2="881.8" y2="410" stroke-width="10" stroke="url(#tr1)"/>
+      <line x1="597.9" y1="437.5" x2="828.9" y2="437.5" stroke-width="10" stroke="url(#tr2)"/>
+      <line x1="744.9" y1="547.3" x2="869.7" y2="547.3" stroke-width="10" stroke="url(#tr3)"/>
+      <line x1="777.7" y1="574.7" x2="932.4" y2="574.7" stroke-width="10" stroke="url(#tr4)"/>
+      <line x1="799.8" y1="602.2" x2="974.5" y2="602.2" stroke-width="10" stroke="url(#tr5)"/>
+      <line x1="815.1" y1="629.6" x2="1003.7" y2="629.6" stroke-width="10" stroke="url(#tr6)"/>
+      <line x1="825.2" y1="657.1" x2="1023.2" y2="657.1" stroke-width="10" stroke="url(#tr7)"/>
+      <line x1="831.1" y1="684.5" x2="1034.3" y2="684.5" stroke-width="10" stroke="url(#tr8)"/>
+      <line x1="833" y1="712" x2="1038" y2="712" stroke-width="10" stroke="url(#tr9)"/>
+      <line x1="831.1" y1="739.5" x2="1034.3" y2="739.5" stroke-width="10" stroke="url(#tr10)"/>
+      <line x1="825.2" y1="766.9" x2="1023.2" y2="766.9" stroke-width="10" stroke="url(#tr11)"/>
+      <line x1="815.1" y1="794.4" x2="1003.7" y2="794.4" stroke-width="10" stroke="url(#tr12)"/>
+      <line x1="799.8" y1="821.8" x2="974.5" y2="821.8" stroke-width="10" stroke="url(#tr13)"/>
+      <line x1="777.7" y1="849.3" x2="932.4" y2="849.3" stroke-width="10" stroke="url(#tr14)"/>
+      <line x1="744.9" y1="876.7" x2="869.7" y2="876.7" stroke-width="10" stroke="url(#tr15)"/>
+    </g>
+    <g id="artGlow" fill="none" stroke="#141A30" stroke-linecap="round">
+      <path d="M404,408 H580" stroke-width="132"/>
+      <path d="M404,566 H660 A146,146 0 0 1 660,858 H404" stroke-width="132"/>
+      <line x1="600.3" y1="382.5" x2="843.3" y2="382.5" stroke-width="10" stroke="url(#tr0)"/>
+      <line x1="607" y1="410" x2="881.8" y2="410" stroke-width="10" stroke="url(#tr1)"/>
+      <line x1="597.9" y1="437.5" x2="828.9" y2="437.5" stroke-width="10" stroke="url(#tr2)"/>
+      <line x1="744.9" y1="547.3" x2="869.7" y2="547.3" stroke-width="10" stroke="url(#tr3)"/>
+      <line x1="777.7" y1="574.7" x2="932.4" y2="574.7" stroke-width="10" stroke="url(#tr4)"/>
+      <line x1="799.8" y1="602.2" x2="974.5" y2="602.2" stroke-width="10" stroke="url(#tr5)"/>
+      <line x1="815.1" y1="629.6" x2="1003.7" y2="629.6" stroke-width="10" stroke="url(#tr6)"/>
+      <line x1="825.2" y1="657.1" x2="1023.2" y2="657.1" stroke-width="10" stroke="url(#tr7)"/>
+      <line x1="831.1" y1="684.5" x2="1034.3" y2="684.5" stroke-width="10" stroke="url(#tr8)"/>
+      <line x1="833" y1="712" x2="1038" y2="712" stroke-width="10" stroke="url(#tr9)"/>
+      <line x1="831.1" y1="739.5" x2="1034.3" y2="739.5" stroke-width="10" stroke="url(#tr10)"/>
+      <line x1="825.2" y1="766.9" x2="1023.2" y2="766.9" stroke-width="10" stroke="url(#tr11)"/>
+      <line x1="815.1" y1="794.4" x2="1003.7" y2="794.4" stroke-width="10" stroke="url(#tr12)"/>
+      <line x1="799.8" y1="821.8" x2="974.5" y2="821.8" stroke-width="10" stroke="url(#tr13)"/>
+      <line x1="777.7" y1="849.3" x2="932.4" y2="849.3" stroke-width="10" stroke="url(#tr14)"/>
+      <line x1="744.9" y1="876.7" x2="869.7" y2="876.7" stroke-width="10" stroke="url(#tr15)"/>
+    </g>
+    <mask id="edgeMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1920" height="1080">
+      <rect x="0" y="0" width="1920" height="1080" fill="url(#edgeFade)"/>
+    </mask>
+    <linearGradient id="splashBackground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8a22"/>
+      <stop offset="1" stop-color="#ee5419"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#splashBackground)"/>
+  <g fill="#141A30" opacity="0.28">
+    <circle cx="120" cy="90" r="2.4"/>
+    <circle cx="262" cy="196" r="1.8"/>
+    <circle cx="410" cy="64" r="2"/>
+    <circle cx="356" cy="330" r="1.6"/>
+    <circle cx="190" cy="372" r="2.2"/>
+    <circle cx="520" cy="240" r="1.6"/>
+    <circle cx="1500" cy="120" r="2.2"/>
+    <circle cx="1660" cy="70" r="1.8"/>
+    <circle cx="1790" cy="210" r="2.4"/>
+    <circle cx="1380" cy="260" r="1.6"/>
+    <circle cx="1620" cy="300" r="2"/>
+    <circle cx="1860" cy="380" r="1.6"/>
+    <circle cx="70" cy="520" r="1.8"/>
+    <circle cx="1880" cy="520" r="2"/>
+    <circle cx="830" cy="70" r="1.6"/>
+    <circle cx="1090" cy="50" r="2"/>
+  </g>
+  <g mask="url(#edgeMask)" fill="none" stroke="#141A30" stroke-linejoin="round">
+    <path d="M0,690 L180,660 L340,676 L520,630 L700,664 L880,640 L1040,668 L1200,646 L1400,672 L1600,650 L1760,668 L1920,656" stroke-width="2.5" opacity="0.22"/>
+    <path d="M0,708 L160,694 L300,700 L440,672 L620,696 L780,684 L960,700 L1120,688 L1320,702 L1520,690 L1720,700 L1920,694" stroke-width="2.5" opacity="0.32"/>
+    <path d="M1160,720 V656 H1230 V720 M1240,720 V680 H1278 V720 M1292,720 V624 H1344 V720 M1356,720 V690 H1386 V720 M1400,720 V636 H1462 V720 M1474,720 V664 H1516 V720 M1528,720 V604 H1582 V720 M1594,720 V694 H1622 V720 M1634,720 V648 H1682 V720 M1696,720 V628 H1732 V720 M1746,720 V670 H1804 V720 M1816,720 V644 H1846 V720 M1860,720 V680 H1906 V720" stroke-width="2.5" opacity="0.32"/>
+    <path d="M0,720 H1920" stroke-width="3" opacity="0.55"/>
+  </g>
+  <g transform="translate(550.8 -50.7) scale(0.62)">
+    <use href="#artGlow" filter="url(#inkGlow)" opacity="0.5"/>
+    <use href="#art"/>
+  </g>
+  <g fill="#141A30" text-anchor="middle">
+    <text x="968.96" y="878" font-family="'Avenir Next', Avenir, 'Helvetica Neue', sans-serif" font-weight="700" font-size="128" letter-spacing="17.92">UTAVISTA MAX</text>
+    <text x="969.66" y="952" font-family="'Hiragino Maru Gothic ProN', 'Hiragino Sans', sans-serif" font-weight="400" font-size="46" letter-spacing="19.3">うたびすた</text>
+    <text x="963.6" y="1012" font-family="'Avenir Next', Avenir, 'Helvetica Neue', sans-serif" font-weight="500" font-size="30" letter-spacing="7.2">Lyrics Animation Engine</text>
+  </g>
+</svg>

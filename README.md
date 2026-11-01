@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/utavista-max-splash.svg" alt="UTAVISTA MAX — うたびすた" width="960" />
+</p>
+
 # UTAVISTA
 
 UTAVISTA（うたびすた）は、歌詞アニメーション動画を制作するための macOS 向けデスクトップアプリケーションです。
