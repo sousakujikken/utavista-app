@@ -12,7 +12,8 @@ v1（GPLv3）は [sousakujikken/utavista](https://github.com/sousakujikken/utavi
 
 ## ダウンロード
 
-最新版は [Releases](https://github.com/sousakujikken/utavista-app/releases) から `.dmg` を取得してください。
+最新の MAX は [UTAVISTA MAX 2.1.12（Pre-release）](https://github.com/sousakujikken/utavista-app/releases/tag/v2.1.12) から `.dmg` を取得してください。
+MAX は **2.1 系**、従来版は **2.0 系**として区別します。過去の配布物は [Releases](https://github.com/sousakujikken/utavista-app/releases) にあります。
 
 > 現在は **ベータ版** です。仕様や操作方法は予告なく変わることがあります。重要なプロジェクトは定期的にバックアップしてください。
 
@@ -24,15 +25,15 @@ v1（GPLv3）は [sousakujikken/utavista](https://github.com/sousakujikken/utavi
 | CPU | Apple Silicon（arm64） |
 | GPU | WebGPU が利用できること（Apple Silicon 搭載 Mac は対応） |
 
-Intel Mac 向けビルドは現時点では提供していません。
+Intel Mac 向けビルドは現時点では提供していません。任意の UTALIGN 解析機能は macOS 14 以降が必要です。
 
 ## インストール
 
-1. Releases から `UTAVISTA-<バージョン>-arm64.dmg` をダウンロードします。
-2. dmg を開き、`UTAVISTA.app` を `アプリケーション` フォルダにドラッグします。
+1. MAX 2.1.12 の Release から `UTAVISTA.MAX-2.1.12-arm64.dmg` をダウンロードします。
+2. dmg を開き、`UTAVISTA MAX.app` を `アプリケーション` フォルダにドラッグします。
 3. 初回起動時に macOS の確認ダイアログが表示されたら「開く」を選びます。
 
-アプリは Apple Developer ID で署名・公証されています。
+アプリは Apple Developer ID で署名・公証されています。既存の MAX を更新する場合は、作品を保存してアプリを終了してから入れ替えてください。本体の更新は手動です。
 
 ## 主な機能
 
@@ -49,6 +50,10 @@ Intel Mac 向けビルドは現時点では提供していません。
 不具合の場合は、macOS のバージョン、アプリのバージョン、再現手順を添えてください。
 
 ## ライセンスとプライバシー
+
+MAX 2.1 系には、[MAX Release の Assets](https://github.com/sousakujikken/utavista-app/releases/tag/v2.1.12) にある `LICENSE`・`PRIVACY.md`・`THIRD_PARTY_NOTICES.md` を参照してください。署名済み MAX アプリ内の文書と同一です。対応 OSS ソースと FFmpeg 差し替え手順も同じ Release にあります。
+
+以下は従来版（2.0 系）の文書です。
 
 - アプリの利用条件: [LICENSE](LICENSE)
 - プライバシー通知: [PRIVACY.md](PRIVACY.md)
