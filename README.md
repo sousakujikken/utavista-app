@@ -12,7 +12,7 @@ v1（GPLv3）は [sousakujikken/utavista](https://github.com/sousakujikken/utavi
 
 ## ダウンロード
 
-最新の MAX は [UTAVISTA MAX 2.1.12（Pre-release）](https://github.com/sousakujikken/utavista-app/releases/tag/v2.1.12) から `.dmg` を取得してください。
+最新の MAX は [UTAVISTA MAX 2.1.13（Pre-release）](https://github.com/sousakujikken/utavista-app/releases/tag/v2.1.13) から `.dmg` を取得してください。
 MAX は **2.1 系**、従来版は **2.0 系**として区別します。過去の配布物は [Releases](https://github.com/sousakujikken/utavista-app/releases) にあります。
 
 > 現在は **ベータ版** です。仕様や操作方法は予告なく変わることがあります。重要なプロジェクトは定期的にバックアップしてください。
@@ -29,7 +29,7 @@ Intel Mac 向けビルドは現時点では提供していません。任意の 
 
 ## インストール
 
-1. MAX 2.1.12 の Release から `UTAVISTA.MAX-2.1.12-arm64.dmg` をダウンロードします。
+1. MAX 2.1.13 の Release から `UTAVISTA.MAX-2.1.13-arm64.dmg` をダウンロードします。
 2. dmg を開き、`UTAVISTA MAX.app` を `アプリケーション` フォルダにドラッグします。
 3. 初回起動時に macOS の確認ダイアログが表示されたら「開く」を選びます。
 
@@ -51,7 +51,7 @@ Intel Mac 向けビルドは現時点では提供していません。任意の 
 
 ## ライセンスとプライバシー
 
-MAX 2.1 系には、[MAX Release の Assets](https://github.com/sousakujikken/utavista-app/releases/tag/v2.1.12) にある `LICENSE`・`PRIVACY.md`・`THIRD_PARTY_NOTICES.md` を参照してください。署名済み MAX アプリ内の文書と同一です。対応 OSS ソースと FFmpeg 差し替え手順も同じ Release にあります。
+MAX 2.1 系には、[MAX Release の Assets](https://github.com/sousakujikken/utavista-app/releases/tag/v2.1.13) にある `LICENSE`・`PRIVACY.md`・`THIRD_PARTY_NOTICES.md` を参照してください。署名済み MAX アプリ内の文書と同一です。対応 OSS ソースと FFmpeg 差し替え手順も同じ Release にあります。
 
 以下は従来版（2.0 系）の文書です。
 
